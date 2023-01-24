@@ -90,3 +90,8 @@ p{
 footer{
 
 }
+
+h2{
+    float:left;
+    border-right:solid 5px;
+}
